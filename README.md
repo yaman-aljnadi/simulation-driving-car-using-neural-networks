@@ -1,3 +1,6 @@
+I must give credit to Sentdex since most of the work is taken from him. 
+this is his Youtube channel https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ
+
 # simulation-driving-car-using-neural-networks
 An AI model that can drive a car on a simulation using tensorflow with python 
 
